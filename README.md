@@ -30,7 +30,13 @@ cloning this repo & installing the dotfiles
 
 ```bash
 git clone https://github.com/AllenGXM/.dotfiles
-cd .dotfiles
-
+cd .dotfiles/scripts
+chmod +x setup.sh
+chmod +x pre-setup.sh
+./pre-setup.sh
 ```
-<<w.i.p>>
+If selected to manually in pre-setup
+
+```bash
+./setup.sh
+```
