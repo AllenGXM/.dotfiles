@@ -234,7 +234,7 @@ bar {
 
 
 bindsym $mod+d exec --no-startup-id ~/.config/rofi/launchers/type-4/launcher.sh
-bindsym $mod+x exec --no-startup-id /home/zenith/.config/rofi/powermenu/type-2/powermenu.sh
+bindsym $mod+x exec --no-startup-id ~/.config/rofi/powermenu/type-2/powermenu.sh
 
 
 exec ~/.fehbg
