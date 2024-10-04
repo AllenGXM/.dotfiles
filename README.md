@@ -1,4 +1,6 @@
-# ZenArch dotfiles
+# ZenArch dotfiles (Decapricated as-of 04-OCT-2024)
+### As this dotfiles are not going under any updates it is strictly discouraged to use setup.sh, instead you can take the configs and make your changes.
+
 ### InstallationWarning:
 
 If you want to give these dotfiles a try, you should first fork this repository, review the code, and remove things you don’t want or need. Don’t blindly use my settings unless you know what that entails. Use at your own risk!
